@@ -1,1 +1,2 @@
-# Cab-share-IITG
+# Cab-Sharing-Web
+Django based webapp
